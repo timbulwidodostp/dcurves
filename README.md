@@ -1,6 +1,8 @@
 # dcurves
 Decision Curve Analysis (DCA) Use dcurves (dca) With (In) R Software
 
+https://www.youtube.com/watch?v=6PStS0RUloE
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
